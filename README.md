@@ -19,11 +19,6 @@
 * Best Under Construction Hack @ LAHacks 2020
 * Best Data Usability Hack @ PennApps 2019
 * Best Use of Microsoft Azure @ Cal Hacks 5.0 2018
-* One of 38 attendees selected out of 1,000+ applicants to attend Twitter DevelopHer
-* Selected for the Google CodeU program
-* Selected for the JP Morgan Code for Good Hackathon
-* Rewriting the Code Fellow
-
 
 ## Employment
 * Summer 2022 - now: Software Engineer @ Google
@@ -31,20 +26,6 @@
 * Summer 2020: Machine Learning Intern @ Adobe
 * Summer 2019: Software Developer Intern @ Amazon
 * Summer 2018: Research Intern @ Research Experience for Undergraduates (REU)
-
-
-## Ongoing List of All Projects
-
-* Domain Adaptation for Racial Faces in the Wild (Research)
-* PictRNNary
-* PlaceIt
-* PostalBox
-* Bikeable
-* Research Recommender
-* Barcelona Accident Prediction
-* Deforestation Detection
-* GoodWill Donor Engagement App (JP Morgan Code for Good)
-* Pomadore (Girls Who Code)
 
 ## Education
 

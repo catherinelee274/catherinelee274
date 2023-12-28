@@ -22,7 +22,7 @@
 
 ## Employment
 * Summer 2022 - now: Software Engineer @ Google
-* Summer 2021: Software Engineer Intern @ Snapchat
+* Summer 2021: Software Engineer Intern, Machine Learning @ Snapchat
 * Summer 2020: Machine Learning Intern @ Adobe
 * Summer 2019: Software Developer Intern @ Amazon
 * Summer 2018: Research Intern @ Research Experience for Undergraduates (REU)

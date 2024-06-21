@@ -29,4 +29,5 @@
 
 ## Education
 :mortar_board: Masters at Stanford University (Part time) 
+
 :mortar_board: Bachelors at University of California, San Diego

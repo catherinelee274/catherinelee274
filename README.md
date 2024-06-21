@@ -14,7 +14,7 @@
 <tr><td>Computer Ethics</td><td>Ethical analysis, expert knowledge of ethics and rationality</td></tr>
 <tr><td>Others</td><td>Expert in logic, diversity-in-tech enthusiast</td></tr>
 </table> -->
-## Highlights :fire:
+## Hackathons :fire:
 * 2nd Place at HackHers.ai 2023
 * Best Under Construction Hack @ LAHacks 2020
 * Best Data Usability Hack @ PennApps 2019

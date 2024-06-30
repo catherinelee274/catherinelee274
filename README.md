@@ -16,9 +16,9 @@
 </table> -->
 ## Hackathons :fire:
 * 2nd Place at HackHers.ai 2023
-* Best Under Construction Hack @ LAHacks 2020
-* Best Data Usability Hack @ PennApps 2019
-* Best Use of Microsoft Azure @ Cal Hacks 5.0 2018
+* Best Under Construction Hack @ LAHacks 2020 https://github.com/gits-lit/place.it
+* Best Data Usability Hack @ PennApps 2019 
+* Best Use of Microsoft Azure @ Cal Hacks 5.0 2018 
 
 ## Employment
 * Summer 2022 - now: Software Engineer @ Google

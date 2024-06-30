@@ -15,10 +15,10 @@
 <tr><td>Others</td><td>Expert in logic, diversity-in-tech enthusiast</td></tr>
 </table> -->
 ## Hackathons :fire:
-* 2nd Place at HackHers.ai 2023
+* 2nd Place at HackHers.ai 2023 https://github.com/jeesunikim/virtual-try-on-team/tree/d64dcf0e210b19cfe4426a0803056ee93ead647e
 * Best Under Construction Hack @ LAHacks 2020 https://github.com/gits-lit/place.it
-* Best Data Usability Hack @ PennApps 2019 
-* Best Use of Microsoft Azure @ Cal Hacks 5.0 2018 
+* Best Data Usability Hack @ PennApps 2019 https://github.com/ayushupneja/Bikeable/tree/master 
+* Best Use of Microsoft Azure @ Cal Hacks 5.0 2018 https://github.com/DevinMui/pictionary
 
 ## Employment
 * Summer 2022 - now: Software Engineer @ Google

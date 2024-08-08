@@ -21,6 +21,7 @@
 * [Winner @ Cal Hacks 5.0 2018](https://github.com/DevinMui/pictionary)
 
 ## Employment
+* Summer 2024: Machine Learning Engineer @ Lamini AI
 * Summer 2022 - December 2023: Software Engineer @ Google
 * Summer 2021: Software Engineer Intern, Machine Learning @ Snapchat
 * Summer 2020: Machine Learning Intern @ Adobe

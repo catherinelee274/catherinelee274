@@ -14,7 +14,7 @@
 <tr><td>Computer Ethics</td><td>Ethical analysis, expert knowledge of ethics and rationality</td></tr>
 <tr><td>Others</td><td>Expert in logic, diversity-in-tech enthusiast</td></tr>
 </table> -->
-## Hackathons :fire:
+## Hackathon Wins :fire:
 * [2nd Place at HackHers.ai 2023](https://github.com/jeesunikim/virtual-try-on-team/tree/d64dcf0e210b19cfe4426a0803056ee93ead647e)
 * [Winner @ LAHacks 2020](https://github.com/gits-lit/place.it)
 * [Winner @ PennApps 2019](https://github.com/ayushupneja/Bikeable/tree/master)

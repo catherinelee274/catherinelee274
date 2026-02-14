@@ -30,6 +30,6 @@
 * Summer 2018: Research Intern @ Research Experience for Undergraduates (REU)
 
 ## Education
-:mortar_board: Masters at Stanford University (Part time) 
+:mortar_board: Stanford University Artificial Intelligence Certificate (Part time) 
 
 :mortar_board: Bachelors at University of California, San Diego

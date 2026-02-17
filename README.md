@@ -22,7 +22,7 @@
 
 ## Employment
 * March 2025 - Current: Software Engineer, Machine Learning @ Amazon
-* May 2024 - December 2024: Machine Learning Engineer @ Lamini AI
+* June 2024 - November 2024: Machine Learning Engineer @ Lamini AI
 * June 2022 - December 2023: Software Engineer @ Google
 * Summer 2021: Software Engineer Intern, Machine Learning @ Snapchat
 * Summer 2020: Machine Learning Intern @ Adobe

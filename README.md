@@ -21,13 +21,13 @@
 * [Winner @ Cal Hacks 5.0 2018](https://github.com/DevinMui/pictionary)
 
 ## Employment
-* March 2025 - Current: Software Engineer, Machine Learning @ Amazon
-* June 2024 - November 2024: Machine Learning Engineer @ Lamini AI
-* June 2022 - December 2023: Software Engineer @ Google
-* Summer 2021: Software Engineer Intern, Machine Learning @ Snapchat
-* Summer 2020: Machine Learning Intern @ Adobe
-* Summer 2019: Software Developer Intern @ Amazon
-* Summer 2018: Research Intern @ Research Experience for Undergraduates (REU)
+* 2025 - Current: Software Engineer, Machine Learning @ Amazon
+* 2024: Machine Learning Engineer @ Lamini AI
+* 2022 - 2024: Software Engineer @ Google
+* 2021: Software Engineer Intern, Machine Learning @ Snapchat
+* 2020: Machine Learning Intern @ Adobe
+* 2019: Software Developer Intern @ Amazon
+* 2018: Research Intern @ Research Experience for Undergraduates (REU)
 
 ## Education
 :mortar_board: Stanford University Artificial Intelligence Certificate (Part time) 

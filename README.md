@@ -21,7 +21,7 @@
 * [Winner @ Cal Hacks 5.0 2018](https://github.com/DevinMui/pictionary)
 
 ## Employment
-* 2025 - Current: Software Engineer, Machine Learning @ Amazon
+* 2025 - Current: Machine Learning Engineer @ Amazon
 * 2024: Machine Learning Engineer @ Lamini AI
 * 2022 - 2024: Software Engineer @ Google
 * 2021: Software Engineer Intern, Machine Learning @ Snapchat
